@@ -1,0 +1,8 @@
+c:\users\jerome\documents\visual studio 2013\Projects\APITest\APITest\bin\Debug\APITest.exe.config
+c:\users\jerome\documents\visual studio 2013\Projects\APITest\APITest\bin\Debug\APITest.exe
+c:\users\jerome\documents\visual studio 2013\Projects\APITest\APITest\bin\Debug\APITest.pdb
+c:\users\jerome\documents\visual studio 2013\Projects\APITest\APITest\obj\Debug\APITest.csprojResolveAssemblyReference.cache
+c:\users\jerome\documents\visual studio 2013\Projects\APITest\APITest\obj\Debug\APITest.exe
+c:\users\jerome\documents\visual studio 2013\Projects\APITest\APITest\obj\Debug\APITest.pdb
+c:\users\jerome\documents\visual studio 2013\Projects\APITest\APITest\bin\Debug\System.Json.dll
+c:\users\jerome\documents\visual studio 2013\Projects\APITest\APITest\bin\Debug\System.Json.xml
